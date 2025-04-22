@@ -1,4 +1,4 @@
-# GItLLMKG
+# GitLLMKG
 Knowledge graph on Git commit history
 
 Usecase:
